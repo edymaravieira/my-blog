@@ -37,3 +37,23 @@ div#top-links {
     border-color: blueviolet;
     border-width: 1px;
 }
+
+div#banner-home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#banner-home img {
+    height: 263px;
+    width: 900px;
+}
+
+img#image-avatar{
+    border-radius: 50%;
+    border-color: bisque;
+    float: right; 
+    margin-right:0; 
+    margin-left:1070px; 
+    margin-bottom:5px;
+}
